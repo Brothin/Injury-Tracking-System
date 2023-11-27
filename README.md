@@ -19,13 +19,13 @@ This aplication shows how to implement a **fullstack app in TypeScript with :
 Clone the entire repo:
 
 ```
-git clone https://github.com/Aladdin4u/injury-tracking-system-nextJs.git
+git clone https://github.com/Brothin/Injury-Tracking-System.git
 ```
 
 Install npm dependencies:
 
 ```
-cd injury-tracking-system-nextJs
+cd Injury-Tracking-System
 yarn install
 ```
 
